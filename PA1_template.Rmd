@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Nitika"
 date: "19 July 2017"
 output: 
@@ -116,6 +117,8 @@ g
 
 The graph shows that the average number of steps taken during interval 750 to 1000 are much higher during Weekdays as compared to Weekends. For rest of the intervals, average number of steps are almost same.
 =======
+=======
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
@@ -140,4 +143,7 @@ output:
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
+<<<<<<< HEAD
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
+=======
 >>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
